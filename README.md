@@ -3,3 +3,7 @@ This is a simple autoclicker program written in C++. It allows you to automate c
 
 
 Start/stop functionality
+
+
+DISCLAIMER
+This program is provided as-is without any warranties. Use at your own risk.
