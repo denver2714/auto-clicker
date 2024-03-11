@@ -6,9 +6,8 @@ using namespace std;
 class AutoClicker {
 private:
     bool click;
-    int interval;
 public:
-    AutoClicker() : click(false), interval(1) {}
+    AutoClicker() : click(false) {}
 
     void menu() {
         cout << "Press 'X' to enable and 'Z' to disable autoclicker\n";
